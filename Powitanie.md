@@ -1,0 +1,2 @@
+[[Części mowy]]
+[[Przypadki]]
