@@ -1,38 +1,38 @@
-# Polska Vault (Quartz)
+# Polska from Artu. Obsidian Vault, powered by Quartz.
 
-Obsidian нотатки про польську мову, опубліковані за допомогою [Quartz 4](https://quartz.jzhao.xyz/). Жодних ручних меню чи `mkdocs.yml`: достатньо додавати/редагувати Markdown-файли, а Quartz будує навігацію автоматично.
+Obsidian notes about learning Polish, published with [Quartz 4](https://quartz.jzhao.xyz/). Keep adding or editing Markdown files and Quartz will handle the navigation automatically.
 
-## Структура
+## Structure
 
-- `content/` — усі нотатки. Додавайте сюди будь-які `.md` файли; Quartz підійме їх автоматично.
-- `quartz/`, `quartz.config.ts`, `quartz.layout.ts` — рушій та налаштування теми.
-- `.github/workflows/deploy.yml` — GitHub Actions, що збирає і деплоїть сайт на Pages з гілки `main`.
+- `content/` — all public notes. Drop any `.md` file here and Quartz will include it.
+- `quartz/`, `quartz.config.ts`, `quartz.layout.ts` — the engine and theme settings.
+- `.github/workflows/deploy.yml` — GitHub Actions workflow that builds and deploys from the `main` branch.
 
-## Локальний запуск
+## Local development
 
 ```bash
-npm install         # один раз
-npm run dev         # будує сайт і піднімає локальний сервер
+npm install         # once
+npm run dev         # build + run local server
 ```
 
-Після цього сайт доступний за адресою `http://localhost:8080/` з автоматичним перезавантаженням.
+The site is served at `http://localhost:8080/` with hot reload.
 
-## Публікація на GitHub Pages
+## Publishing to GitHub Pages
 
-1. Запуште репозиторій у GitHub (наприклад, `artu/Polska`).
-2. У налаштуваннях репозиторію відкрийте **Pages** й переконайтеся, що джерело — **GitHub Actions**.
-3. Кожен `git push` у `main` запустить workflow `.github/workflows/deploy.yml`, який:
-   - виконає `npm ci`,
-   - збере сайт `npm run build` (вивід у `public/`),
-   - опублікує артефакт через `actions/deploy-pages`.
+1. Push the repo to GitHub (e.g. `artu/Polska`).
+2. In **Settings → Pages** choose **GitHub Actions** as the source.
+3. Every `git push` to `main` runs `.github/workflows/deploy.yml`, which:
+   - executes `npm ci`,
+   - builds via `npm run build` (outputs to `public/`),
+   - publishes through `actions/deploy-pages`.
 
-Якщо публікуєте в іншому репозиторії, відредагуйте `homepage`/`repository` у `package.json` та `baseUrl` у `quartz.config.ts` (зараз задано `artu.github.io/Polska`).
+If you host in another repo, update `homepage`/`repository` in `package.json` and `baseUrl` in `quartz.config.ts` (currently `artu.github.io/Polska`).
 
-## Додавання нових нотаток
+## Adding new notes
 
-1. Створіть файл у `content/` (наприклад, `content/słownictwo.md`).
-2. Користуйтеся Obsidian-стилем посилань `[[назва]]` — Quartz їх розпізнає.
-3. Закомітьте зміни та виконайте `git push`.
+1. Create a file in `content/` (e.g. `content/slownictwo.md`).
+2. Use Obsidian-style wikilinks `[[note-name]]` — Quartz resolves them automatically.
+3. Commit and `git push`.
 
-Quartz сам оновить навігацію, список останніх нотаток, граф зв’язків та пошук без додаткових конфігів.
+Quartz will refresh the navigation, latest notes list, graph, and search index without additional configuration.
 
