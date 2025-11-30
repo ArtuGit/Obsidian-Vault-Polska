@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Polska Vault",
+    pageTitle: "Polska from Artu",
     pageTitleSuffix: " · Польська для себе",
     enableSPA: true,
     enablePopovers: true,
