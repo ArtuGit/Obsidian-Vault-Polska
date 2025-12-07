@@ -1,10 +1,12 @@
 # Rodzaj rzeczowników i przymiotników
 
+Рід іменників та прикметників — род существительных и прилагательных — gender of nouns and adjectives
+
 Рід (`rodzaj`) у польській мові визначає, які закінчення отримують іменники та прикметники. Почнемо з простих сигналів і поступово перейдемо до складніших випадків.
 
 ---
 
-## 1. Po co nam rodzaj?
+## 1. Po co nam rodzaj? — Навіщо нам рід? / Why do we need gender?
 
 - Допомагає узгоджувати прикметники, займенники та числівники з іменником.
 - Полегшує вибір правильних закінчень у відмінках.
@@ -12,37 +14,37 @@
 
 ---
 
-## 2. Rzeczowniki – podstawowe rodzaje
+## 2. Rzeczowniki – podstawowe rodzaje — Іменники: основні роди / Nouns: basic genders
 
 Короткі описи без глибоких винятків, тільки головні маркери.
 
-### Rodzaj męski
+### Rodzaj męski — чоловічий рід / masculine gender
 
 **Термін:** Rodzaj męski — чоловічий рід / мужской род / masculine  
 
 - Типові закінчення: приголосний (`dom`, `stół`), інколи `-a` для осіб (`poeta`).  
-- Приклади: `ten student`, `mały kot`.  
+- Приклади: `ten student` — цей студент / this (male) student, `mały kot` — малий кіт / small cat.  
 - Якщо слово означає чоловічу істоту, майже завжди це męski.
 
-### Rodzaj żeński
+### Rodzaj żeński — жіночий рід / feminine gender
 
 **Термін:** Rodzaj żeński — жіночий рід / женский род / feminine  
 
 - Найчастіше закінчення `-a` (`kobieta`, `kawa`), рідше `-oś/-eń` (`miłość`).  
-- Приклади: `ta koleżanka`, `dobra kawa`.  
+- Приклади: `ta koleżanka` — ця подруга / this (female) friend, `dobra kawa` — добра кава / good coffee.  
 - Більшість професій на `-ka`, `-czyni` також жіночі.
 
-### Rodzaj nijaki
+### Rodzaj nijaki — середній рід / neuter gender
 
 **Термін:** Rodzaj nijaki — середній рід / средний род / neuter  
 
 - Закінчення `-o`, `-e`, `-ę`, `-um` (`okno`, `morze`, `imię`, `centrum`).  
-- Приклади: `to okno`, `małe dziecko`.  
+- Приклади: `to okno` — це вікно / this window, `małe dziecko` — мала дитина / small child.  
 - Абстрактні поняття на `-um` майже завжди nijaki.
 
 ---
 
-## 3. Przymiotniki – szybkie узгодження
+## 3. Przymiotniki – szybkie узгодження / Adjectives – quick agreement
 
 - У формі називного відмінка (однина) прикметник показує рід через закінчення.
 - Базова схема:
@@ -57,7 +59,7 @@
 
 ---
 
-## 4. Typowe sygnały (трохи складніше)
+## 4. Typowe sygnały (трохи складніше) / Typical signals (a bit more advanced)
 
 1. **Запозичення на приголосний** (`film`, `trend`) → переважно męski.  
 2. **Назви міст, країн на голосний** (`Kraków`, `Warszawa`) мають фіксований рід як у словнику; часто жіночий, але є винятки (`Londyn` – męski).  
@@ -66,7 +68,7 @@
 
 ---
 
-## 5. Mini-checklista
+## 5. Mini-checklista — міні-чекліст / mini checklist
 
 1. Подивись на закінчення і значення (жива істота? предмет?).  
 2. Визнач родовий і прикметниковий детермінатив (`ten/ta/to`).  
@@ -75,13 +77,13 @@
 
 ---
 
-## 6. Ćwiczenie startowe
+## 6. Ćwiczenie startowe — Початкова вправа / Starter exercise
 
 | Rzeczownik | Rodzaj | Detal + przymiotnik | Переклад |
 | --- | --- | --- | --- |
-| `kawa` | żeński | `ta dobra kawa` | ця добра кава |
-| `dziecko` | nijaki | `to małe dziecko` | ця мала дитина |
-| `inżynier` | męski | `ten młody inżynier` | цей молодий інженер |
-| `muzeum` | nijaki | `to nowoczesne muzeum` | цей сучасний музей |
+| `kawa` | żeński | `ta dobra kawa` | ця добра кава / this good coffee |
+| `dziecko` | nijaki | `to małe dziecko` | ця мала дитина / this small child |
+| `inżynier` | męski | `ten młody inżynier` | цей молодий інженер / this young engineer |
+| `muzeum` | nijaki | `to nowoczesne muzeum` | цей сучасний музей / this modern museum |
 
 Побудуй власні речення, змінюючи прикметники та перевіряючи, чи зберігаєш рід і закінчення.

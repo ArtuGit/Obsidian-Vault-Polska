@@ -1,10 +1,12 @@
 # Zaimki wskazujące
 
+Вказівні займенники — указательные местоимения — demonstrative pronouns
+
 Займенники `zaimki wskazujące` вказують **на конкретну особу, предмет або місце**: *цей, ця, це, ті, той там* тощо. Це одна з базових тем, бо вони поєднують у собі і рід, і число, і відстань (близько / далеко).
 
 ---
 
-## 1. Co to są zaimki wskazujące?
+## 1. Co to są zaimki wskazujące? — Що таке вказівні займенники? / What are demonstrative pronouns?
 
 **Термін:**  
 `zaimek wskazujący` — вказівний займенник / указательное местоимение / demonstrative pronoun.
@@ -17,7 +19,7 @@
 
 ---
 
-## 2. Podstawowe formy blisko nas (\"ten/ta/to\")
+## 2. Podstawowe formy blisko nas (\"ten/ta/to\") — Основні форми біля нас / Basic forms near the speaker
 
 Це найчастіші форми, які відповідають українському **цей / ця / це / ці** поруч з нами.
 
@@ -30,13 +32,13 @@
 **Важливо:**  
 `ten/ta/to` узгоджуються з іменником у **роді та числі**, як прикметники:
 
-- `ten kot` — цей кіт  
-- `ta kawa` — ця кава  
-- `to okno` — це вікно  
+- `ten kot` — цей кіт — this cat  
+- `ta kawa` — ця кава — this coffee  
+- `to okno` — це вікно — this window  
 
 ---
 
-## 3. Liczba mnoga: \"ci\" i \"te\"
+## 3. Liczba mnoga: \"ci\" i \"te\" — Множина / Plural
 
 У множині є лише **дві основні форми**:
 
@@ -47,9 +49,9 @@
 
 Приклади:
 
-- `ci nauczyciele` — ці (ті) вчителі (чоловіки)  
-- `te książki` — ці книжки  
-- `te dzieci` — ці діти  
+- `ci nauczyciele` — ці (ті) вчителі (чоловіки) — these male teachers  
+- `te książki` — ці книжки — these books  
+- `te dzieci` — ці діти — these children  
 
 🚩 **Мінімальне правило:**  
 Якщо говоримо **тільки про дорослих чоловіків / хлопців** → `ci`.  
@@ -57,7 +59,7 @@
 
 ---
 
-## 4. Daleko od nas: \"tamten/tamta/tamto\" i liczba mnoga
+## 4. Daleko od nas: \"tamten/tamta/tamto\" i liczba mnoga — Далеко від нас / Far from us
 
 Щоб сказати **\"той/та/те там\" (далі від мовця)**, додаємо елемент `tam-`:
 
@@ -76,14 +78,14 @@
 
 Приклади:
 
-- `Tamten dom jest stary, a ten jest nowy.` — Той дім там старий, а цей новий.  
-- `Tamta kobieta mieszka w Warszawie.` — Та жінка там живе у Варшаві.  
-- `Tamto dziecko płacze.` — Те дитя там плаче.  
-- `Tamci chłopcy grają w piłkę.` — Ті хлопці там грають у футбол.  
+- `Tamten dom jest stary, a ten jest nowy.` — Той дім там старий, а цей новий. — That house there is old, and this one is new.  
+- `Tamta kobieta mieszka w Warszawie.` — Та жінка там живе у Варшаві. — That woman there lives in Warsaw.  
+- `Tamto dziecko płacze.` — Те дитя там плаче. — That child there is crying.  
+- `Tamci chłopcy grają w piłkę.` — Ті хлопці там грають у футбол. — Those boys there are playing football.  
 
 ---
 
-## 5. Mini-schemat: rodzaj + liczba
+## 5. Mini-schemat: rodzaj + liczba — Міні-схема: рід + число / Mini-scheme: gender + number
 
 Для базового рівня достатньо пам'ятати таку таблицю:
 
@@ -100,30 +102,30 @@
 
 ---
 
-## 6. Typowe konstrukcje z zaimkami wskazującymi
+## 6. Typowe konstrukcje z zaimkami wskazującymi — Типові конструкції з вказівними займенниками / Typical constructions with demonstrative pronouns
 
 Найчастіше в живій мові вживаються конструкції:
 
 1. **`To jest ...`** — Це є ...  
-   - `To jest dom.` — Це дім.  
-   - `To jest moja koleżanka.` — Це моя подруга.  
+   - `To jest dom.` — Це дім. — This is a house.  
+   - `To jest moja koleżanka.` — Це моя подруга. — This is my (female) friend.  
 
 2. **`To są ...`** — Це є ... (множина)  
-   - `To są moje książki.` — Це мої книжки.  
-   - `To są twoje klucze.` — Це твої ключі.  
+   - `To są moje książki.` — Це мої книжки. — These are my books.  
+   - `To są twoje klucze.` — Це твої ключі. — These are your keys.  
 
 3. **`Ten/Ta/To ... jest ...`** — Цей/ця/це ... є ...  
-   - `Ten film jest ciekawy.` — Цей фільм цікавий.  
-   - `Ta kawa jest mocna.` — Ця кава міцна.  
-   - `To okno jest zamknięte.` — Це вікно зачинене.  
+   - `Ten film jest ciekawy.` — Цей фільм цікавий. — This film is interesting.  
+   - `Ta kawa jest mocna.` — Ця кава міцна. — This coffee is strong.  
+   - `To okno jest zamknięte.` — Це вікно зачинене. — This window is closed.  
 
 4. **Порівняння близько/далеко**  
-   - `Ten dom jest duży, ale tamten jest mały.` — Цей дім великий, але той (там) маленький.  
-   - `Ta książka jest nudna, a tamta ciekawa.` — Ця книжка нудна, а та (там) цікава.  
+   - `Ten dom jest duży, ale tamten jest mały.` — Цей дім великий, але той (там) маленький. — This house is big, but that one (there) is small.  
+   - `Ta książka jest nudna, a tamta ciekawa.` — Ця книжка нудна, а та (там) цікава. — This book is boring, and that one (there) is interesting.  
 
 ---
 
-## 7. Ćwiczenie startowe
+## 7. Ćwiczenie startowe — Початкова вправа / Starter exercise
 
 Спробуй підібрати правильну форму займенника. Заповни пропуски:
 

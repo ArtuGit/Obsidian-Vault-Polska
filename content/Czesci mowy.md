@@ -1,28 +1,31 @@
+# Części mowy
+
+Частини мови — части речи — parts of speech
 
 Польська мова, як і українська, має багату граматичну структуру. Розуміння частин мови є фундаментальним для вивчення польської мови.
 
-## Основні частини мови
+## Основні частини мови / Main parts of speech
 
-### 1. Rzeczownik (Noun) - Іменник
+### 1. Rzeczownik — іменник / существительное / noun
 
 **Іменники** в польській мові мають три роди, два числа та сім відмінків.
 
 **Роди:**
 
-- Rodzaj męski (masculine) - чоловічий рід
-- Rodzaj żeński (feminine) - жіночий рід
-- Rodzaj nijaki (neuter) - середній рід
+- **Rodzaj męski** — чоловічий рід / мужской род / masculine
+- **Rodzaj żeński** — жіночий рід / женский род / feminine
+- **Rodzaj nijaki** — середній рід / средний род / neuter
 
 **Приклади:**
 
 - **dom** (house) - дім (чоловічий)
 - **kobieta** (woman) - жінка (жіночий)
 - **dziecko** (child) - дитина (середній)
-- **stół** (table) - стіл
-- **książka** (book) - книга
-- **okno** (window) - вікно
+- **stół** (table) - стіл (чоловічий)
+- **książka** (book) - книга (жіночий)
+- **okno** (window) - вікно (середній)
 
-### 2. Przymiotnik (Adjective) - Прикметник
+### 2. Przymiotnik — прикметник / прилагательное / adjective
 
 **Прикметники** узгоджуються з іменниками за родом, числом та відмінком.
 
@@ -34,7 +37,7 @@
 - **piękny dzień** (beautiful day) - гарний день
 - **dobra książka** (good book) - добра книга
 
-### 3. Czasownik (Verb) - Дієслово
+### 3. Czasownik — дієслово / глагол / verb
 
 **Дієслова** відмінюються за особами, числами, часами та способами.
 
@@ -49,18 +52,18 @@
 
 **Відмінювання (Present tense - teraźniejszy):**
 
-- Ja **jestem** (I am)
-- Ty **jesteś** (You are)
-- On/ona/ono **jest** (He/she/it is)
-- My **jesteśmy** (We are)
-- Wy **jesteście** (You are - plural)
-- Oni/one **są** (They are)
+- Ja **jestem** (I am) — Я є
+- Ty **jesteś** (You are) — Ти є
+- On/ona/ono **jest** (He/she/it is) — Він/вона/воно є
+- My **jesteśmy** (We are) — Ми є
+- Wy **jesteście** (You are - plural) — Ви є
+- Oni/one **są** (They are) — Вони є
 
-### 4. Zaimek (Pronoun) - Займенник
+### 4. Zaimek — займенник / местоимение / pronoun
 
 **Займенники** замінюють іменники в реченні.
 
-**Особові займенники (Personal pronouns):**
+**Zaimki osobowe — особові займенники / личные местоимения / personal pronouns:**
 
 - **ja** (I) - я
 - **ty** (you - singular) - ти
@@ -71,7 +74,7 @@
 - **wy** (you - plural) - ви
 - **oni/one** (they) - вони
 
-**Присвійні займенники (Possessive pronouns):**
+**Zaimki dzierżawcze — присвійні займенники / притяжательные местоимения / possessive pronouns:**
 
 - **mój/moja/moje** (my/mine) - мій/моя/моє
 - **twój/twoja/twoje** (your/yours) - твій/твоя/твоє
@@ -79,9 +82,9 @@
 - **jej** (her) - її
 - **nasz/nasza/nasze** (our/ours) - наш/наша/наше
 
-
 [[Zaimki wskazujące]] — вказівний займенник / указательное местоимение / demonstrative pronoun
-### 5. Przysłówek (Adverb) - Прислівник
+
+### 5. Przysłówek — прислівник / наречие / adverb
 
 **Прислівники** описують дієслова, прикметники або інші прислівники.
 
@@ -98,7 +101,7 @@
 - **wczoraj** (yesterday) - вчора
 - **jutro** (tomorrow) - завтра
 
-### 6. Przyimek (Preposition) - Прийменник
+### 6. Przyimek — прийменник / предлог / preposition
 
 **Прийменники** показують відношення між словами.
 
@@ -121,7 +124,7 @@
 - Książka jest **na** stole (The book is on the table) - Книга на столі
 - Idę **do** szkoły (I'm going to school) - Я йду до школи
 
-### 7. Spójnik (Conjunction) - Сполучник
+### 7. Spójnik — сполучник / союз / conjunction
 
 **Сполучники** з'єднують слова, фрази або речення.
 
@@ -138,11 +141,11 @@
 
 **Приклади в реченнях:**
 
-- Lubię kawę **i** herbatę (I like coffee and tea)
-- Jest mały, **ale** silny (He is small but strong)
-- Myślę, **że** to prawda (I think that it's true)
+- Lubię kawę **i** herbatę — Люблю каву і чай. — I like coffee and tea.
+- Jest mały, **ale** silny — Він маленький, але сильний. — He is small but strong.
+- Myślę, **że** to prawda — Я думаю, що це правда. — I think that it's true.
 
-### 8. Liczebnik (Numeral) - Числівник
+### 8. Liczebnik — числівник / числительное / numeral
 
 **Числівники** позначають кількість або порядок.
 
@@ -162,7 +165,7 @@
 - **drugi/druga/drugie** (second) - другий
 - **trzeci/trzecia/trzecie** (third) - третій
 
-### 9. Wykrzyknik (Interjection) - Вигук
+### 9. Wykrzyknik — вигук / междометие / interjection
 
 **Вигуки** виражають емоції або раптові реакції.
 
@@ -176,7 +179,7 @@
 - **Brawo!** (Bravo!) - Браво!
 - **Ojej!** (Oh dear!) - Ойой!
 
-### 10. Imiesłów (Participle) - Дієприкметник
+### 10. Imiesłów — дієприкметник / причастие / participle
 
 **Дієприкметники** мають властивості як дієслів, так і прикметників.
 
@@ -187,22 +190,22 @@
 - **zrobiony** (done/made) - зроблений
 - **śpiący** (sleeping) - сонний (той, що спить)
 
-## Таблиця: Швидкий довідник
+## Таблиця: Швидкий довідник / Quick reference table
 
-|Польська|Англійська|Українська|Приклад|
-|---|---|---|---|
-|Rzeczownik|Noun|Іменник|dom (house)|
-|Przymiotnik|Adjective|Прикметник|duży (big)|
-|Czasownik|Verb|Дієслово|być (to be)|
-|Zaimek|Pronoun|Займенник|ja (I)|
-|Przysłówek|Adverb|Прислівник|szybko (quickly)|
-|Przyimek|Preposition|Прийменник|w (in)|
-|Spójnik|Conjunction|Сполучник|i (and)|
-|Liczebnik|Numeral|Числівник|pięć (five)|
-|Wykrzyknik|Interjection|Вигук|Oj! (Oh!)|
-|Imiesłów|Participle|Дієприкметник|czytający (reading)|
+|Польська|Українська|Російська|Англійська|Приклад|
+|---|---|---|---|---|
+|Rzeczownik|Іменник|Существительное|Noun|dom — дім / house|
+|Przymiotnik|Прикметник|Прилагательное|Adjective|duży — великий / big|
+|Czasownik|Дієслово|Глагол|Verb|być — бути / to be|
+|Zaimek|Займенник|Местоимение|Pronoun|ja — я / I|
+|Przysłówek|Прислівник|Наречие|Adverb|szybko — швидко / quickly|
+|Przyimek|Прийменник|Предлог|Preposition|w — в / in|
+|Spójnik|Сполучник|Союз|Conjunction|i — і / and|
+|Liczebnik|Числівник|Числительное|Numeral|pięć — п'ять / five|
+|Wykrzyknik|Вигук|Междометие|Interjection|Oj! — Ой! / Oh!|
+|Imiesłów|Дієприкметник|Причастие|Participle|czytający — читаючий / reading|
 
-## Корисні поради
+## Корисні поради / Useful tips
 
 1. **Род іменників:** Запам'ятовуйте рід разом з іменником, бо він впливає на узгодження з прикметниками.
 2. **Відмінки:** Польська має 7 відмінків (як і українська), тому практикуйте їх регулярно.

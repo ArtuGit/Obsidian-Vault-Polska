@@ -1,8 +1,12 @@
+# Przypadki
+
+Відмінки — падежи — cases
+
 Польська мова має **7 відмінків** (przypadki), які визначають форму іменників, прикметників, займенників і числівників у реченні залежно від їхньої синтаксичної функції.
 
 ---
 
-## 1. Mianownik (Називний відмінок)
+## 1. Mianownik — Називний / Именительный / Nominative
 
 **Переклад:** Називний / Именительный / Nominative
 
@@ -17,13 +21,13 @@
 
 ### Приклади:
 
-- **Kot** śpi. — **Кіт** спить.
-- **Książka** leży na stole. — **Книжка** лежить на столі.
-- To jest **Anna**. — Це **Анна**.
+- **Kot** śpi. — **Кіт** спить. — The cat is sleeping.
+- **Książka** leży na stole. — **Книжка** лежить на столі. — The book is lying on the table.
+- To jest **Anna**. — Це **Анна**. — This is Anna.
 
 ---
 
-## 2. Dopełniacz (Родовий відмінок)
+## 2. Dopełniacz — Родовий / Родительный / Genitive
 
 **Переклад:** Родовий / Родительный / Genitive
 
@@ -43,15 +47,15 @@
 
 ### Приклади:
 
-- Nie ma **kota**. — Немає **кота**.
-- Książka **Marii**. — Книга **Марії**.
-- Szklanka **wody**. — Склянка **води**.
-- Iść do **sklepu**. — Йти до **магазину**.
-- Dwa **jabłka**. — Два **яблука**.
+- Nie ma **kota**. — Немає **кота**. — There is no cat.
+- Książka **Marii**. — Книга **Марії**. — Maria's book.
+- Szklanka **wody**. — Склянка **води**. — A glass of water.
+- Iść do **sklepu**. — Йти до **магазину**. — To go to the shop.
+- Dwa **jabłka**. — Два **яблука**. — Two apples.
 
 ---
 
-## 3. Celownik (Давальний відмінок)
+## 3. Celownik — Давальний / Дательный / Dative
 
 **Переклад:** Давальний / Дательный / Dative
 
@@ -70,14 +74,14 @@
 
 ### Приклади:
 
-- Daję **kotu** jedzenie. — Даю **коту** їжу.
-- Pomogę **mamie**. — Допоможу **мамі**.
-- Podoba mi się **ta książka**. — Мені подобається **ця книжка**.
-- Dzięki **tobie**. — Завдяки **тобі**.
+- Daję **kotu** jedzenie. — Даю **коту** їжу. — I give food to the cat.
+- Pomogę **mamie**. — Допоможу **мамі**. — I will help my mom.
+- Podoba mi się **ta książka**. — Мені подобається **ця книжка**. — I like this book.
+- Dzięki **tobie**. — Завдяки **тобі**. — Thanks to you.
 
 ---
 
-## 4. Biernik (Знахідний відмінок)
+## 4. Biernik — Знахідний / Винительный / Accusative
 
 **Переклад:** Знахідний / Винительный / Accusative
 
@@ -96,15 +100,15 @@
 
 ### Приклади:
 
-- Widzę **kota**. — Бачу **кота**.
-- Czytam **książkę**. — Читаю **книжку**.
-- Idę na **spacer**. — Йду на **прогулянку**.
-- Przez **las**. — Через **ліс**.
-- Lubię **kawę**. — Люблю **каву**.
+- Widzę **kota**. — Бачу **кота**. — I see a cat.
+- Czytam **książkę**. — Читаю **книжку**. — I am reading a book.
+- Idę na **spacer**. — Йду на **прогулянку**. — I am going for a walk.
+- Przez **las**. — Через **ліс**. — Through the forest.
+- Lubię **kawę**. — Люблю **каву**. — I like coffee.
 
 ---
 
-## 5. Narzędnik (Орудний відмінок)
+## 5. Narzędnik — Орудний / Творительный / Instrumental
 
 **Переклад:** Орудний / Творительный / Instrumental
 
@@ -123,16 +127,16 @@
 
 ### Приклади:
 
-- Piszę **długopisem**. — Пишу **ручкою**.
-- Jestem **nauczycielem**. — Я **вчитель** (є вчителем).
-- Iść **lasem**. — Йти **лісом**.
-- Z **przyjacielem**. — З **другом**.
-- Pod **stołem**. — Під **столом**.
-- Interesuję się **muzyką**. — Цікавлюся **музикою**.
+- Piszę **długopisem**. — Пишу **ручкою**. — I am writing with a pen.
+- Jestem **nauczycielem**. — Я **вчитель** (є вчителем). — I am a teacher.
+- Iść **lasem**. — Йти **лісом**. — To walk through the forest.
+- Z **przyjacielem**. — З **другом**. — With a friend.
+- Pod **stołem**. — Під **столом**. — Under the table.
+- Interesuję się **muzyką**. — Цікавлюся **музикою**. — I am interested in music.
 
 ---
 
-## 6. Miejscownik (Місцевий відмінок)
+## 6. Miejscownik — Місцевий / Предложный / Locative
 
 **Переклад:** Місцевий / Предложный / Locative
 
@@ -150,15 +154,15 @@
 
 ### Приклади:
 
-- Myślę o **tobie**. — Думаю про **тебе**.
-- W **domu**. — У **домі**.
-- Na **stole**. — На **столі**.
-- Mówić o **książce**. — Говорити про **книжку**.
-- Po **obiedzie**. — Після **обіду**.
+- Myślę o **tobie**. — Думаю про **тебе**. — I am thinking about you.
+- W **domu**. — У **домі**. — At home.
+- Na **stole**. — На **столі**. — On the table.
+- Mówić o **książce**. — Говорити про **книжку**. — To talk about a book.
+- Po **obiedzie**. — Після **обіду**. — After lunch.
 
 ---
 
-## 7. Wołacz (Кличний відмінок)
+## 7. Wołacz — Кличний / Звательный / Vocative
 
 **Переклад:** Кличний / Звательный / Vocative
 
@@ -174,14 +178,14 @@
 
 ### Приклади:
 
-- **Mamo**! — **Мамо**!
-- **Panie Janie**! — **Пане Яне**!
-- **Kocie**, chodź tu! — **Коте**, йди сюди!
-- Dzień dobry, **pani Ewo**! — Добрий день, **пані Єво**!
+- **Mamo**! — **Мамо**! — Mom!
+- **Panie Janie**! — **Пане Яне**! — Mr Jan!
+- **Kocie**, chodź tu! — **Коте**, йди сюди! — Cat, come here!
+- Dzień dobry, **pani Ewo**! — Добрий день, **пані Єво**! — Good morning, Ms Ewa!
 
 ---
 
-## Таблиця відмінків
+## Таблиця відмінків / Table of cases
 
 |Відмінок|Польська|Українська|Російська|Англійська|Питання|
 |---|---|---|---|---|---|
@@ -195,7 +199,7 @@
 
 ---
 
-## Практичні поради
+## Практичні поради / Practical tips
 
 ### Як визначити відмінок?
 
@@ -213,7 +217,7 @@
 
 ---
 
-## Приклад відмінювання (słowo "kot" — кіт)
+## Приклад відмінювання (słowo "kot" — кіт) / Example of declension
 
 |Відмінок|Однина|Множина|
 |---|---|---|
@@ -227,7 +231,7 @@
 
 ---
 
-## Корисні зауваження
+## Корисні зауваження / Useful notes
 
 ⚠️ **Увага:** У знахідному відмінку (Biernik) для живих істот чоловічого роду форма збігається з родовим відмінком (Dopełniacz), а для неживих — з називним (Mianownik).
 
