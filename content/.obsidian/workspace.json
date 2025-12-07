@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Przypadki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Przypadki"
             }
           }
         ],
@@ -256,12 +256,12 @@
   },
   "active": "3b5da43cf1c15f97",
   "lastOpenFiles": [
+    "index.md",
+    "Czesci mowy.md",
+    "Przypadki.md",
     "base.base",
     "Zaimki wskazujące.md",
     "Rodzaj rzeczowników i przymiotników.md",
-    "2025-12-07.md",
-    "index.md",
-    "Przypadki.md",
-    "Czesci mowy.md"
+    "2025-12-07.md"
   ]
 }
