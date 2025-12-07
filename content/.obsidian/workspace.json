@@ -81,13 +81,14 @@
             "id": "3b5da43cf1c15f97",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "base.base",
-                "viewName": "Table"
+                "file": "Przypadki.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "base"
+              "icon": "lucide-file",
+              "title": "Przypadki"
             }
           }
         ],
@@ -255,11 +256,11 @@
   },
   "active": "3b5da43cf1c15f97",
   "lastOpenFiles": [
+    "base.base",
     "Czesci mowy.md",
     "index.md",
     "Przypadki.md",
     "Rodzaj rzeczowników i przymiotników.md",
-    "base.base",
     "Zaimki wskazujące.md",
     "2025-12-07.md"
   ]
