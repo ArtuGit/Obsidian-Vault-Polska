@@ -11,11 +11,12 @@ Obsidian Valet is designed to help with learning and referencing the Polish lang
 ## Articles
 
 ### Structure
-When creating articles, start with simple (basic) concepts and then progress to more complex ones.
+- When creating articles, start with simple (basic) concepts and then progress to more complex ones.
+- Do not double Header 1 with the Obsidian/System Header
 
 ### Languages / Translations
-- Obsidian/System Title: Polish (without translation)
-- Subtitle (at the very beginning of an article): Ukrainian/Russian/English
+- Obsidian/System Title: Obsidian/System Title: (without translation)
+- Subtitle (Header 1, at the very beginning of an article): Ukrainian/Russian/English
 - Each grammar term: Polish with Ukrainian/Russian/English translations 
 - Examples: Polish with Ukrainian/English translations
 - Headers: should be translated into Ukrainian and English
