@@ -23,3 +23,14 @@ Obsidian Valet is designed to help with learning and referencing the Polish lang
 
 ### Links
 Each internal link is accompanied by Ukrainian/Russian/English translation text (which is not part of the link).
+
+## Markdown
+Use such markdown elements as 
+-	[!NOTE]
+-	[!TIP]
+-	[!IMPORTANT]
+-	[!WARNING]
+-	[!CAUTION]
+
+among others
+
