@@ -110,12 +110,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Plan nauki A1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Plan nauki A1"
             }
           }
         ],
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Plan nauki A1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Plan nauki A1"
             }
           },
           {
@@ -282,32 +282,32 @@
   },
   "active": "235ad651d4d8ca2b",
   "lastOpenFiles": [
-    "A1/Podstawowe zwroty.md",
-    "Untitled.md",
-    "A1/Rodzaj i liczba.md",
-    "A1/Szyk zdania i pytania.md",
-    "A1/Zaimki osobowe.md",
-    "A1/Miesiące i daty.md",
-    "A1/Mianownik i Biernik (A1).md",
-    "A1/Lista błędów i powtórki.md",
-    "A1/Liczby 0–100.md",
-    "A1/Dialogi (szablony).md",
-    "A1/Być i mieć.md",
-    "Czesci mowy.md",
+    "A1/Zdrowie podstawy.md",
+    "A1/Zakupy.md",
+    "Przyimki.md",
+    "A1/Liczba pojedyncza i mnoga.md",
     "Plan nauki A1.md",
-    "index.md",
-    "A1/Rodzina.md",
-    "A1/Alfabet i wymowa.md",
-    "Przypadki.md",
-    "A1/Czas teraźniejszy (teraźniejszy).md",
-    "A1/Miasto i kierunki.md",
-    "A1/Jedzenie i zakupy.md",
-    "A1/Dom i rzeczy.md",
-    "A1/Godziny i dni tygodnia.md",
-    "A1/Stopniowanie (wstęp).md",
-    "A1/Przymiotnik: rodzaj i liczba (A1).md",
-    "A1/Przyimki: w, na, do, z.md",
-    "A1/Dopełniacz (A1).md",
+    "A1/Przyimki podstawowe.md",
+    "A1/Proste opowiadanie o dniu.md",
+    "A1/Umawianie się.md",
+    "A1/Mówienie o preferencjach.md",
+    "A1/Opisywanie osób i rzeczy.md",
+    "A1/Narzędnik (z kim? z czym?).md",
+    "A1/Miejscownik (o kim? o czym?).md",
+    "A1/Biernik (kogo? co?).md",
+    "A1/Przypadki wstęp.md",
+    "A1/Pytania tak-nie i pytajniki.md",
+    "A1/Negacja nie.md",
+    "A1/Koniugacja teraźniejszy.md",
+    "A1/Czasownik podstawy.md",
+    "A1/Zaimki wskazujące.md",
+    "A1/Zaimki osobowe.md",
+    "A1/Stopniowanie przymiotników podstawy.md",
+    "A1/Przymiotnik podstawy.md",
+    "A1/Rodzaj rzeczownika.md",
+    "A1/Rzeczownik podstawy.md",
+    "A1/Alfabet gramatyczny.md",
+    "A1/Zainteresowania i czas wolny.md",
     "A1",
     "base.base"
   ]
