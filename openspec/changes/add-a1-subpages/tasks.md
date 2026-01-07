@@ -45,8 +45,8 @@ Fill each file with content that follows the template and content rules.
 - [ ] `content/A1/Zainteresowania i czas wolny.md`
 
 ### Grammar: A1 minimum
-- [ ] `content/A1/Alfabet gramatyczny.md`
-- [ ] `content/A1/Rzeczownik podstawy.md`
+- [x] `content/A1/Alfabet gramatyczny.md`
+- [x] `content/A1/Rzeczownik podstawy.md`
 - [ ] `content/A1/Rodzaj rzeczownika.md`
 - [ ] `content/A1/Liczba pojedyncza i mnoga.md`
 - [ ] `content/A1/Przymiotnik podstawy.md`

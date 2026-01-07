@@ -110,12 +110,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan nauki A1.md",
+                "file": "A1/Rzeczownik podstawy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plan nauki A1"
+              "title": "Rzeczownik podstawy"
             }
           }
         ],
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan nauki A1.md",
+                "file": "A1/Rzeczownik podstawy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Plan nauki A1"
+              "title": "Backlinks for Rzeczownik podstawy"
             }
           },
           {
@@ -282,6 +282,8 @@
   },
   "active": "235ad651d4d8ca2b",
   "lastOpenFiles": [
+    "Plan nauki A1.md",
+    "A1/Alfabet gramatyczny.md",
     "AGENTS.md",
     "openspec/changes/archive",
     "openspec/specs",
@@ -293,7 +295,6 @@
     "A1/Zakupy.md",
     "Przyimki.md",
     "A1/Liczba pojedyncza i mnoga.md",
-    "Plan nauki A1.md",
     "A1/Przyimki podstawowe.md",
     "A1/Proste opowiadanie o dniu.md",
     "A1/Umawianie się.md",
@@ -311,7 +312,6 @@
     "A1/Zaimki osobowe.md",
     "A1/Stopniowanie przymiotników podstawy.md",
     "A1/Przymiotnik podstawy.md",
-    "A1/Rodzaj rzeczownika.md",
     "A1",
     "base.base"
   ]
