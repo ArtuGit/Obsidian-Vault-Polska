@@ -12,9 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: " · Польська для себе",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: null,
-    },
+    analytics: null,
     locale: "en-US",
     baseUrl: "artu.github.io/Polska",
     ignorePatterns: ["private", "templates", ".obsidian", "README.md"],
