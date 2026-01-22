@@ -1,0 +1,58 @@
+## 1. Content fill (A1 lessons)
+- [ ] 1.1 Populate empty lessons with the minimal template from `design.md`.
+- [ ] 1.2 Fill these currently-empty lesson files:
+  - [ ] `content/A1/Akcent i intonacja.md`
+  - [ ] `content/A1/Alfabet i wymowa.md`
+  - [ ] `content/A1/Biernik (kogo? co?).md`
+  - [ ] `content/A1/Czasownik podstawy.md`
+  - [ ] `content/A1/Daty.md`
+  - [ ] `content/A1/Dni tygodnia.md`
+  - [ ] `content/A1/Dom i mieszkanie.md`
+  - [ ] `content/A1/Godziny i czas.md`
+  - [ ] `content/A1/Jedzenie i napoje.md`
+  - [ ] `content/A1/Kolory.md`
+  - [ ] `content/A1/Koniugacja teraźniejszy.md`
+  - [ ] `content/A1/Liczba pojedyncza i mnoga.md`
+  - [ ] `content/A1/Liczby 0-100.md`
+  - [ ] `content/A1/Liczby w praktyce.md`
+  - [ ] `content/A1/Liczebniki porządkowe.md`
+  - [ ] `content/A1/Miasto i kierunki.md`
+  - [ ] `content/A1/Miejscownik (o kim? o czym?).md`
+  - [ ] `content/A1/Miesiące i pory roku.md`
+  - [ ] `content/A1/Mówienie o preferencjach.md`
+  - [ ] `content/A1/Narzędnik (z kim? z czym?).md`
+  - [ ] `content/A1/Negacja nie.md`
+  - [ ] `content/A1/Opisywanie osób i rzeczy.md`
+  - [ ] `content/A1/Ortografia podstawowa.md`
+  - [ ] `content/A1/Pogoda.md`
+  - [ ] `content/A1/Powitania i pożegnania.md`
+  - [ ] `content/A1/Praca i szkoła podstawy.md`
+  - [ ] `content/A1/Proste opowiadanie o dniu.md`
+  - [ ] `content/A1/Prośby i polecenia.md`
+  - [ ] `content/A1/Przedstawianie się.md`
+  - [ ] `content/A1/Przyimki podstawowe.md`
+  - [ ] `content/A1/Przymiotnik podstawy.md`
+  - [ ] `content/A1/Przypadki wstęp.md`
+  - [ ] `content/A1/Pytania podstawowe.md`
+  - [ ] `content/A1/Pytania tak-nie i pytajniki.md`
+  - [ ] `content/A1/Restauracja i kawiarnia.md`
+  - [ ] `content/A1/Rodzaj rzeczownika.md`
+  - [ ] `content/A1/Rodzina.md`
+  - [ ] `content/A1/Stopniowanie przymiotników podstawy.md`
+  - [ ] `content/A1/Transport.md`
+  - [ ] `content/A1/Umawianie się.md`
+  - [ ] `content/A1/Zaimki osobowe.md`
+  - [ ] `content/A1/Zaimki wskazujące.md`
+  - [ ] `content/A1/Zainteresowania i czas wolny.md`
+  - [ ] `content/A1/Zakupy.md`
+  - [ ] `content/A1/Zdrowie podstawy.md`
+  - [ ] `content/A1/Łączenia i uproszczenia w mowie.md`
+
+## 2. Consistency (quick fixes)
+- [ ] 2.1 Ensure callouts use `> [!...]` syntax (fix any existing A1 pages that use bare `[!NOTE]` without blockquote).
+
+## 3. Validation (per spec)
+- [ ] 3.1 Add `npm run validate:a1` script.
+- [ ] 3.2 Implement a validation script that fails if any `content/A1/*.md` file is empty (and prints offending paths).
+- [ ] 3.3 (Optional) Extend validation with minimal structure checks described in `design.md`.
+- [ ] 3.4 Document validation usage in README (short section).
