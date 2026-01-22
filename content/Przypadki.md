@@ -181,6 +181,9 @@
 - **Kocie**, chodź tu! — **Коте**, йди сюди! — Cat, come here!
 - Dzień dobry, **pani Ewo**! — Добрий день, **пані Єво**! — Good morning, Ms Ewa!
 
+[!TIP]
+Форми ввічливості **Pan / Pani / Państwo** відмінюються і часто викликають питання “який відмінок?”. Дивись: [[Pan Pani Państwo]] — форми ввічливості / формы вежливости / polite forms.
+
 ---
 
 ## Таблиця відмінків / Table of cases

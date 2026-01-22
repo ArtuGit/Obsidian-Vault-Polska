@@ -26,11 +26,11 @@ Each internal link is accompanied by Ukrainian/Russian/English translation text 
 
 ## Markdown
 Use such markdown elements as 
--	[!NOTE]
--	[!TIP]
--	[!IMPORTANT]
--	[!WARNING]
--	[!CAUTION]
+-	>[!NOTE]
+-	>[!TIP]
+-	>[!IMPORTANT]
+-	>[!WARNING]
+-	>[!CAUTION]
 
 among others
 

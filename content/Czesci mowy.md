@@ -72,6 +72,8 @@
 - **wy** (you - plural) - ви
 - **oni/one** (they) - вони
 
+[[Pan Pani Państwo]] — форми ввічливості / формы вежливости / polite forms (вживаються як “ввічливе ви”)
+
 **Zaimki dzierżawcze — присвійні займенники / притяжательные местоимения / possessive pronouns:**
 
 - **mój/moja/moje** (my/mine) - мій/моя/моє
